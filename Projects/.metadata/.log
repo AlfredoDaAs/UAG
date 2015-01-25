@@ -1,0 +1,866 @@
+!SESSION 2015-01-25 12:16:33.307 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:17:24.610
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2015-01-25 12:17:54.539
+!MESSAGE Environment Variable Dependency not resolved for 'ARMGNUDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2015-01-25 12:17:54.598
+!MESSAGE Environment Variable Dependency not resolved for 'ARMSummonDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2015-01-25 12:17:54.603
+!MESSAGE Environment Variable Dependency not resolved for 'ARMYagartoDirEnv'.
+
+!ENTRY com.freescale.core.ide.cdt.toolchain 4 0 2015-01-25 12:17:54.607
+!MESSAGE Environment Variable Dependency not resolved for 'ARMdevkitProDirEnv'.
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2015-01-25 12:18:01.861
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.6\eclipse\../MCU/lib/wizard_data/mqx/4.0/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2015-01-25 12:18:01.868
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.6\eclipse\../MCU/lib/wizard_data/mqx/4.0/patches' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2015-01-25 12:18:03.487
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.6\eclipse\../MCU/lib/wizard_data/mqx/4.1/ppc' does not exist
+
+!ENTRY com.freescale.core.ide.wizard.ui 2 0 2015-01-25 12:18:03.494
+!MESSAGE External elements location 'C:\Freescale\CW MCU v10.6\eclipse\../MCU/lib/wizard_data/mqx/4.1/patches' does not exist
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.092
+!MESSAGE NLS unused message: ProjectNamePage_title in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.097
+!MESSAGE NLS unused message: ProjectNamePage_Description in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.101
+!MESSAGE NLS unused message: OptionsPage_5 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.105
+!MESSAGE NLS unused message: OptionsPage_8 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.109
+!MESSAGE NLS unused message: OptionsPage_9 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.112
+!MESSAGE NLS unused message: OptionsPage_10 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.116
+!MESSAGE NLS unused message: OptionsPage_30 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.202
+!MESSAGE NLS unused message: SingleEditableTable_0 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.206
+!MESSAGE NLS unused message: SingleEditableTable_1 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.210
+!MESSAGE NLS unused message: SingleEditableTable_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.213
+!MESSAGE NLS unused message: SingleEditableTable_3 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.217
+!MESSAGE NLS unused message: MultiEditableTable_0 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.220
+!MESSAGE NLS unused message: MultiEditableTable_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.224
+!MESSAGE NLS unused message: MultiEditableTable_3 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.281
+!MESSAGE NLS unused message: MultiEditableTable_4 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.285
+!MESSAGE NLS unused message: MultiEditableTable_5 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.288
+!MESSAGE NLS unused message: AccessPathPage_0 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.292
+!MESSAGE NLS unused message: AccessPathPage_1 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.297
+!MESSAGE NLS unused message: AccessPathPage_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.301
+!MESSAGE NLS unused message: AccessPathPage_3 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.306
+!MESSAGE NLS unused message: AccessPathPage_8 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.311
+!MESSAGE NLS unused message: AccessPathPage_9 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.315
+!MESSAGE NLS unused message: AccessPathPage_10 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.320
+!MESSAGE NLS unused message: AccessPathPage_11 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.324
+!MESSAGE NLS unused message: GlobalsPage_0 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.327
+!MESSAGE NLS unused message: GlobalsPage_1 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.331
+!MESSAGE NLS unused message: GlobalsPage_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.334
+!MESSAGE NLS unused message: GlobalsPage_7 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.338
+!MESSAGE NLS unused message: GlobalsPage_8 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.341
+!MESSAGE NLS unused message: GlobalsPage_9 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.345
+!MESSAGE NLS unused message: GlobalsPage_10 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.348
+!MESSAGE NLS unused message: GlobalsPage_12 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.351
+!MESSAGE NLS unused message: GlobalsPage_13 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.356
+!MESSAGE NLS unused message: FileNotFoundPage_0 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.360
+!MESSAGE NLS unused message: FileNotFoundPage_1 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.363
+!MESSAGE NLS unused message: FileNotFoundPage_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.366
+!MESSAGE NLS unused message: FileNotFoundPage_unresolved in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.369
+!MESSAGE NLS unused message: FileNotFoundPage_unresolvedWithDependents in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.374
+!MESSAGE NLS unused message: FileNotFoundPage_4 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.378
+!MESSAGE NLS unused message: FileNotFoundPage_5 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.382
+!MESSAGE NLS unused message: FileNotFoundPage_6 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.385
+!MESSAGE NLS unused message: OptionsPage_1 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.389
+!MESSAGE NLS unused message: OptionsPage_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.393
+!MESSAGE NLS unused message: OptionsPage_3 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.397
+!MESSAGE NLS unused message: OptionsPage_5 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.402
+!MESSAGE NLS unused message: OptionsPage_6 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.406
+!MESSAGE NLS unused message: OptionsPage_7 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.409
+!MESSAGE NLS unused message: OptionsPage_8 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.413
+!MESSAGE NLS unused message: OptionsPage_9 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.416
+!MESSAGE NLS unused message: OptionsPage_10 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.420
+!MESSAGE NLS unused message: OptionsPage_14 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.423
+!MESSAGE NLS unused message: OptionsPage_15 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.432
+!MESSAGE NLS unused message: OptionsPage_16 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.436
+!MESSAGE NLS unused message: OptionsPage_19 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.440
+!MESSAGE NLS unused message: OptionsPage_20 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.443
+!MESSAGE NLS unused message: OptionsPage_21 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.447
+!MESSAGE NLS unused message: OptionsPage_22 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.450
+!MESSAGE NLS unused message: OptionsPage_23 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.454
+!MESSAGE NLS unused message: OptionsPage_24 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.458
+!MESSAGE NLS unused message: OptionsPage_25 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.463
+!MESSAGE NLS unused message: OptionsPage_26 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.468
+!MESSAGE NLS unused message: OptionsPage_27 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.473
+!MESSAGE NLS unused message: OptionsPage_28 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.476
+!MESSAGE NLS unused message: OptionsPage_29 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.480
+!MESSAGE NLS unused message: OptionsPage_30 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.484
+!MESSAGE NLS unused message: OptionsPage_31 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.487
+!MESSAGE NLS unused message: OptionsPage_32 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.491
+!MESSAGE NLS unused message: OptionsPage_33 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.494
+!MESSAGE NLS unused message: OptionsPage_34 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.497
+!MESSAGE NLS unused message: OptionsPage_35 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.500
+!MESSAGE NLS unused message: OptionsPage_AdvancedOptions in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.510
+!MESSAGE NLS unused message: OptionsPage_ImportSubProjects in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.514
+!MESSAGE NLS unused message: LoaderPage_0 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.517
+!MESSAGE NLS unused message: LoaderPage_1 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.521
+!MESSAGE NLS unused message: LoaderPage_2 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.525
+!MESSAGE NLS unused message: LoaderPage_3 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.528
+!MESSAGE NLS unused message: LoaderPage_4 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.532
+!MESSAGE NLS unused message: LoaderPage_6 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.539
+!MESSAGE NLS unused message: LoaderPage_7 in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.543
+!MESSAGE NLS unused message: LoaderPage_invalidProjectFile in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.547
+!MESSAGE NLS unused message: AccessPathPage_FlattenRecursiveAccessPaths in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.551
+!MESSAGE NLS unused message: ImporterWizard_ImportingProject in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.555
+!MESSAGE NLS missing message: ProjectNamePage_label in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.558
+!MESSAGE NLS missing message: ProjectNamePage_error in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:18:19.562
+!MESSAGE NLS missing message: ProjectLocationPage_error in: com.freescale.core.ide.cwprojectImporter.wizards.messages
+
+!ENTRY com.freescale.processorexpert.core 1 0 2015-01-25 12:18:21.926
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-01-25 12:20:06.292
+!MESSAGE Indexed 'IDS' (5 sources, 29 headers) in 3.54 sec: 878 declarations; 1,258 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:20:11.260
+!MESSAGE NLS unused message: trace_trigger_dv_error_title in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:20:11.265
+!MESSAGE NLS unused message: trace_trigger_dv_error_message in: com.freescale.sa.mcu.analysispoints.nls.ui
+
+!ENTRY org.eclipse.jface 2 0 2015-01-25 12:20:12.328
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.328
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2500e5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2500e5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.328
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@15dbc83,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.MakeHandlersGo@15dbc83,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.328
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1034977,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1034977,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.328
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@cc5148,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@cc5148,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.328
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1ec82b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1ec82b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.329
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@786bdf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@786bdf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.329
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1f205eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1f205eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.329
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@62b154,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@62b154,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-01-25 12:20:12.329
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1683756,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1683756,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.307
+!MESSAGE NLS unused message: NewProjectCreator_coreException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.356
+!MESSAGE NLS unused message: NewProjectCreator_coreException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.364
+!MESSAGE NLS unused message: NewProjectCreator_coreException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.370
+!MESSAGE NLS unused message: NewProjectCreator_exception1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.376
+!MESSAGE NLS unused message: NewProjectCreator_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.383
+!MESSAGE NLS unused message: NewProjectCreator_wizardException2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.389
+!MESSAGE NLS unused message: NewProjectCreator_wizardException3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.394
+!MESSAGE NLS unused message: NewProjectCreator_wizardException4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.398
+!MESSAGE NLS unused message: NewProjectCreator_wizardException5 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.401
+!MESSAGE NLS unused message: NewProjectCreator_wizardException6 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.406
+!MESSAGE NLS unused message: NewProjectCreator_wizardException7 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.410
+!MESSAGE NLS unused message: NewProjectCreator_wizardException8 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.414
+!MESSAGE NLS unused message: NewProjectCreator_wizardException9 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.417
+!MESSAGE NLS unused message: NewProjectCreator_logError1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.420
+!MESSAGE NLS unused message: NewProjectCreator_logError2 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.424
+!MESSAGE NLS unused message: NewProjectCreator_logError3 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.427
+!MESSAGE NLS unused message: NewProjectCreator_logError4 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.431
+!MESSAGE NLS unused message: NewProjectCreator_multiProjType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.434
+!MESSAGE NLS unused message: NewProjectCreator_typeNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.437
+!MESSAGE NLS unused message: NewProjectCreator_saveOptions in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.440
+!MESSAGE NLS unused message: NewProjectCreator_cantLocateType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.444
+!MESSAGE NLS unused message: NewProjectCreator_addNature in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.447
+!MESSAGE NLS unused message: NewProjectCreator_addBuilder in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.450
+!MESSAGE NLS unused message: NewProjectCreator_settingNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.453
+!MESSAGE NLS unused message: NewProjectCreator_optionNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.457
+!MESSAGE NLS unused message: NewProjectCreator_unknownOption in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.460
+!MESSAGE NLS unused message: NewProjectCreator_configNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.463
+!MESSAGE NLS unused message: NewProjectCreator_varContainsOpenBrace in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.467
+!MESSAGE NLS unused message: NewProjectCreator_endlessVarLoop in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.470
+!MESSAGE NLS unused message: NewProjectCreator_userFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.473
+!MESSAGE NLS unused message: NewProjectCreator_warningTitleFilesNotFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.476
+!MESSAGE NLS unused message: ExtensionLoader_loadexception in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.479
+!MESSAGE NLS unused message: ExtensionLoader_wizardException in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.483
+!MESSAGE NLS unused message: ExtensionLoader_unknown in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.486
+!MESSAGE NLS unused message: ExtensionLoader_illElement in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.489
+!MESSAGE NLS unused message: CWWizard_windowTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.493
+!MESSAGE NLS unused message: CWWizard_description in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.496
+!MESSAGE NLS unused message: CWWizard_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.499
+!MESSAGE NLS unused message: CWWizard_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.503
+!MESSAGE NLS unused message: CWWizard_errorTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.506
+!MESSAGE NLS unused message: CWWizard_errorMsg in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.509
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageTitle in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.513
+!MESSAGE NLS unused message: CWWizard_classicImporter_pageDescription in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.516
+!MESSAGE NLS unused message: WizardInfo_wizardException0 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.519
+!MESSAGE NLS unused message: WizardInfo_wizardException1 in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.629
+!MESSAGE NLS unused message: ApplySetting_noChildFound in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.636
+!MESSAGE NLS unused message: ApplySetting_attrNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.641
+!MESSAGE NLS unused message: ApplySetting_childNotAllowed in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.645
+!MESSAGE NLS unused message: ApplySetting_attrNotSpecified in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.650
+!MESSAGE NLS unused message: ApplySetting_errValueType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.655
+!MESSAGE NLS unused message: ApplySetting_illSettingType in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.660
+!MESSAGE NLS unused message: ApplySetting_illSettingMode in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.664
+!MESSAGE NLS unused message: ProjectNamePage_stepFormat in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.667
+!MESSAGE NLS unused message: ProjectNamePage_collisionWarn in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.671
+!MESSAGE NLS unused message: ProjectName_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:48:38.674
+!MESSAGE NLS unused message: ProjectLocation_error in: com.freescale.core.ide.newprojectwizard.messages
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.842
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.px
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.874
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.878
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.882
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.967
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.board.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.973
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v2
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.979
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v3
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.984
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:48:49.988
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.twrboard.family.v4e
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.680
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke14d_36
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.687
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke14d_72
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.695
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke15d_36
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.701
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.kinetis_e.ke1x.subfamily.ke15d_72
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.721
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.727
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.732
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk10.ID_CHIP_MK10X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.737
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.741
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.745
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk20.ID_CHIP_MK20X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.750
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.755
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.759
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk30.ID_CHIP_MK30X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.763
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.767
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X128
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.772
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk40.ID_CHIP_MK40X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.776
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.780
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60N512
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:20.784
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.mk60.ID_CHIP_MK60X256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.091
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256Z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.096
+!MESSAGE Unknown condition ID: mcu.projectwizard.chip.k10d_100.ID_CHIP_MK60DN256
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.114
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.family.hc08
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.134
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m5208evbe
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.138
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m5211demo
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.142
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m5213evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.145
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52210demo
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.149
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52211evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.153
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52221demo
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.157
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52223evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.160
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52233demo
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.164
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52235evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.168
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52259demo
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.172
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52259evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.175
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m52277evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.179
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v2.m5253evbe
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.184
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v3.m53015evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.187
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v3.m5329evbe
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.191
+!MESSAGE Unknown UI Element ID: mcu.projectwizard.chip.v4.m54455evb
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.208
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTFLASH
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.213
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.389
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.cf_v2v4.ID_TARGET_CONSOLE_EXTRAM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.394
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_SDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:36.398
+!MESSAGE Unknown condition ID: mcu.projectwizard.condition.dsc.ID_TARGET_EXTERNAL_RAM_LDM
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.223
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copytoproject.cfv1
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.227
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.dontcopytoproject
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.231
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.abs
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.235
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copyelf.pa
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.238
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.arm
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.242
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.dsc
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.245
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.elf.s12z
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.249
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.bb.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.252
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.kd.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.256
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.app.elf
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.259
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.copy.flt
+
+!ENTRY com.freescale.core.ide.wizard.ui 4 0 2015-01-25 12:49:37.263
+!MESSAGE Unknown condition ID: mcu.elfimporter.condition.arm.setPnEAttribute.STARTUP_USE_SWD
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-01-25 12:49:41.492
+!MESSAGE Indexed 'led' (5 sources, 33 headers) in 1.78 sec: 1,059 declarations; 1,726 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:56:05.686
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showFunctionOffsets in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:56:05.694
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showFunctionOffsetsTooltip in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:56:05.706
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showCodeBytes in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:56:05.713
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showCodeBytesTooltip in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:56:05.720
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showAddress in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY org.eclipse.osgi 2 1 2015-01-25 12:56:05.725
+!MESSAGE NLS missing message: DisassemblyPreferencePage_showAddressTooltip in: org.eclipse.cdt.dsf.debug.internal.ui.disassembly.DisassemblyMessages
+
+!ENTRY com.freescale.core.debugger.cdt 4 0 2015-01-25 12:56:32.080
+!MESSAGE A debug session is already in progress.
+
+!ENTRY com.freescale.core.debugger.cdt 4 16777218 2015-01-25 12:57:00.338
+!MESSAGE Error launching led_FLASH_PnE U-MultiLink
+!STACK 1
+org.eclipse.core.runtime.CoreException: ARM GDI Protocol Adapter : Can't connect. The Debugger can not connect to the P&E device
+	at com.freescale.cdt.debug.cw.core.DebugErrorUtils.handleDebugCoreError(DebugErrorUtils.java:281)
+	at com.freescale.cdt.launch.cw.DownloadLaunchDelegate.cwDoLaunch(DownloadLaunchDelegate.java:542)
+	at com.freescale.cdt.launch.cw.BaseLaunchDelegate.doLaunch(BaseLaunchDelegate.java:203)
+	at com.freescale.cdt.launch.cw.DownloadLaunchDelegate.launchDebug(DownloadLaunchDelegate.java:276)
+	at com.freescale.cdt.launch.cw.DownloadLaunchDelegate.launch(DownloadLaunchDelegate.java:123)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:862)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:704)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1047)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1251)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 com.freescale.core.debugger.cdt 4 16777218 2015-01-25 12:57:00.339
+!MESSAGE ARM GDI Protocol Adapter : Can't connect. The Debugger can not connect to the P&E device
